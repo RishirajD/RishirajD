@@ -1,4 +1,7 @@
-![Header](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif) ![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px" height="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200px" />
+</p>
 
 # Hi there, I'm Rishiraj Das! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
