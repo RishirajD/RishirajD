@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px" height="200px" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200px" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250px" height="180px" style="background: transparent;" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" height="180px" style="background: transparent;" />
 </p>
 
 # Hi there, I'm Rishiraj Das! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
